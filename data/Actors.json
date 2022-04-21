@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"star_battler","characterIndex":0,"characterName":"star_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"star_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Star","nickname":"","note":"","profile":"Star é uma guerreira nascida no planeta Marte, quando muito nova perdeus seus pais, e desde então vem tentando encontrar o assasino, com a suspeita de que ele esteja na terra."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
